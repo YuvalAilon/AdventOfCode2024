@@ -1,8 +1,5 @@
 input = open("input.txt").read()
 
-def processInput():
-    return 0
-
 def xmasCount(s):
     return s.count("XMAS") + s.count("SAMX")
 
@@ -62,6 +59,5 @@ def part2():
                 ))
     return wordCount
 
-processInput()
 print("Part 1: " , part1())
 print("Part 2: " , part2())
