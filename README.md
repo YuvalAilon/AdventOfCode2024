@@ -1,2 +1,2 @@
 # AdventOfCode2024
-All my solutions to [text](https://adventofcode.com/2024) :)
+All my solutions to [Advent of Code 2024](https://adventofcode.com/2024) :)
